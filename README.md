@@ -1,4 +1,4 @@
-# Autonomous_Object_Following_Cart
+# Object_Following_Cart
 
 An autonomous object-following cart created using Raspberry Pi, OpenCV, and Python. The cart was made in collaboration with four classmates. 
 
@@ -15,3 +15,4 @@ An autonomous object-following cart created using Raspberry Pi, OpenCV, and Pyth
 - PiCamera V1
 - L298N Motor Controller
 - [Cart chassis](https://www.amazon.ca/perseids-Chassis-Encoder-Battery-Arduino/dp/B07DNXBFQN/ref=sr_1_5?dchild=1&keywords=car+chassis&qid=1607060404&sr=8-5)
+- Power source (2.4 A, 5 V, DC)
